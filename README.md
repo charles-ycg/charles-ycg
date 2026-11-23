@@ -1,14 +1,7 @@
-<div align="center">
-
 # Hi, I’m Charles 👋
 
-关注 AI E2E、移动端自动化和 LLM 评测。
-
-</div>
-
-#### 💼 Work Experience
-
-**快手** · AI 测试开发工程师 · `2024.07 – 至今`
+- 💼 **快手** · AI 测试开发工程师 · 2024.07 – 至今
+- 🔎 **关注方向** · AI E2E、移动端自动化和 LLM 评测
 
 #### 💻 Open Source
 
